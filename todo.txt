@@ -1,0 +1,15 @@
+Find Dataset (define the problem better).
+
+Implementation:
+
+Feature extractor (ResNet or VGG or InceptioNet?)
+
+LSTM to handle temporal features?
+
+Metrics:
+
+Accuracy and/or sth else?
+
+
+Future work:
+?
